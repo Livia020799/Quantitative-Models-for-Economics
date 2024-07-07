@@ -5,6 +5,7 @@ This repository hosts the final project (***Final_Project_Work_GroupM***) for th
 -------------------------------------------------------------------------------------------------------------------------------------
 
 The exam in Quantitive Models for Economics was structured in 2 homeworks plus a final project, that is the one reported here. 
+
 In the final project we were asked to re-do the case study on ITOR publications described in Section 4 of the paper ***Int Trans Operational Res - 2023 - Avenali - Systematic reviews as a metaknowledge tool  caveats and a review of available*** by using the tools of Systematic Reviews that we saw in class. 
 For this project, we first conducted a traditional "manual" Systematic Review of the literature. We then enhanced our analysis by integrating Artificial Intelligence tools that were introduced during the course. The objective was to compare and contrast the outcomes derived from manual methods with those generated through AI-driven approaches.
 

@@ -14,4 +14,9 @@ The results of our comparative study are documented in the final section of our 
 
 For the majority of our visualizations, we used a library within R called `biblioshiny`, which is part of the bibliometrix package. Detailed setup instructions are provided in the ***bibliometrix.R*** file available in this repository. To use biblioshiny for interactive graphing, you can launch it by executing `biblioshiny()` in R after installing the required packages outlined in the provided code.
 Additionally, the .R file includes scripts for conducting preliminary analyses on abstracts sourced from *Scopus* and *Web of Science*, which are also available in this repository.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+**This project (plus the homeworks) received a perfect score of 30 out of 30 on the final exam.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years. 
+Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.
  

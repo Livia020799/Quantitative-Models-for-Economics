@@ -10,7 +10,10 @@ The exam in Quantitative Models for Economics consisted of two assignments and a
 
 ### **Project Overview**
 
-In the final project we were asked to re-do the case study on ITOR publications described in Section 4 of the paper ***Int Trans Operational Res - 2023 - Avenali - Systematic reviews as a metaknowledge tool  caveats and a review of available*** by using the tools of Systematic Reviews that we saw in class.<br>
+In the final project we were asked to re-do the case study on ITOR publications described in Section 4 of the paper ***Int Trans Operational Res - 2023 - Avenali - Systematic reviews as a metaknowledge tool  caveats and a review of available*** by using the tools of Systematic Reviews that we saw in class.
+
+![image](https://github.com/Livia020799/Quantitative-Models-for-Economics/assets/146645775/efc8822e-a8be-4751-bd4e-f15968feb2f8)
+
 For this project, we first conducted a traditional "manual" Systematic Review of the literature. We then enhanced our analysis by integrating Artificial Intelligence tools that were introduced during the course. The objective was to compare and contrast the outcomes derived from manual methods with those generated through AI-driven approaches.
 
 The results of our comparative study are documented in the final section of our paper, which is available in this repository.

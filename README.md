@@ -20,7 +20,7 @@ The results of our comparative study are documented in the final section of our 
 ### **Visualization Tools**
 
 For the majority of our visualizations, we used a library within R called `biblioshiny`, which is part of the bibliometrix package. Detailed setup instructions are provided in the ***bibliometrix.R*** file available in this repository.<br> 
-To use biblioshiny for interactive graphing, you can launch it by executing `biblioshiny()` in R after installing the required packages outlined in the provided code.<br>
+To use biblioshiny for interactive graphing, you can launch it by executing `biblioshiny()` in R after installing the required packages outlined in the provided code.
 Additionally, the .R file includes scripts for conducting preliminary analyses on abstracts sourced from *Scopus* and *Web of Science*, which are also available in this repository.
 
 All the `.csv` and `.bib` files included in this repository contain the abstracts from *Scopus* and *Web of Science*, essential for generating the majority of the graphs presented in the project, as well as for conducting the preliminary analyses using R.

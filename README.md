@@ -6,7 +6,7 @@ This repository hosts the final project (***Final_Project_Work_GroupM***) for th
 
 ### **Exam Structure**
 
-The exam in Quantitative Models for Economics consisted of two homework assignments and a final project, detailed here.
+The exam in Quantitative Models for Economics consisted of two assignments and a final project, detailed here.
 
 ### **Project Overview**
 

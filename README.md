@@ -23,7 +23,7 @@ For the majority of our visualizations, we used a library within R called `bibli
 To use biblioshiny for interactive graphing, you can launch it by executing `biblioshiny()` in R after installing the required packages outlined in the provided code.
 Additionally, the .R file includes scripts for conducting preliminary analyses on abstracts sourced from *Scopus* and *Web of Science*, which are also available in this repository.
 
-All the `.csv` and `.bib` files are needed for the visualization.
+All the `.csv` and `.bib` files included in this repository contain the abstracts from *Scopus* and *Web of Science*, essential for generating the majority of the graphs presented in the project, as well as for conducting the preliminary analyses using R.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 

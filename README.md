@@ -8,6 +8,8 @@ This repository hosts the final project (***Final_Project_Work_GroupM***) for th
 
 The exam in Quantitative Models for Economics consisted of two assignments and a final project, detailed here.
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ### **Project Overview**
 
 In the final project we were asked to re-do the case study on ITOR publications described in Section 4 of the paper ***Int Trans Operational Res - 2023 - Avenali - Systematic reviews as a metaknowledge tool  caveats and a review of available*** by using the tools of Systematic Reviews that we saw in class.

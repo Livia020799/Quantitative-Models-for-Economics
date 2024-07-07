@@ -1,6 +1,6 @@
 ## Quantitative-Models-for-Economics
 
-This repository hosts the final project (***Final_Project_Work_GroupM***) for the Quantitative Methods in Economics exam, instructed by Professor Cinzia Daraio, as part of the Master’s degree in Data Science at Sapienza University of Rome. The project demonstrates our group's collective efforts and key findings.
+This repository hosts the final project (***`Final_Project_Work_GroupM`***) for the Quantitative Methods in Economics exam, instructed by Professor Cinzia Daraio, as part of the Master’s degree in Data Science at Sapienza University of Rome. The project demonstrates our group's collective efforts and key findings.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 

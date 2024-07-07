@@ -34,7 +34,7 @@ All the `.csv` and `.bib` files included in this repository contain the abstract
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-### **Project Score and Usage**
+### **Exam Score and Project Usage**
 
 **This project (plus the homeworks) received a perfect score of 30 out of 30 on the final exam.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
 Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.

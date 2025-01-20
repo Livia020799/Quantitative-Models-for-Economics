@@ -12,7 +12,7 @@ The exam in Quantitative Models for Economics consisted of two assignments and a
 
 ### **Project Overview**
 
-In the final project we were asked to re-do the case study on ITOR publications described in Section 4 of the paper ***Int Trans Operational Res - 2023 - Avenali - Systematic reviews as a metaknowledge tool  caveats and a review of available*** by using the tools of Systematic Reviews that we saw in class.
+In the final project we were asked to re-do the case study on ITOR publications described in Section 4 of the paper ***Int Trans Operational Res - 2023 - Avenali - Systematic reviews as a metaknowledge tool  caveats and a review of available options*** by using the tools of Systematic Reviews that we saw in class.
 
 ![image](https://github.com/Livia020799/Quantitative-Models-for-Economics/assets/146645775/efc8822e-a8be-4751-bd4e-f15968feb2f8)
 
